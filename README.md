@@ -1,2 +1,3 @@
 # my-first-project
-Ознайомлення з GitHub
+
+This is my first project
